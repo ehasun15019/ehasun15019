@@ -12,9 +12,16 @@ As a Junior MERN Stack Developer, my commitment is delivering flawless websites.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ehasun15019)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasun15019)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ehasun15019&show_icons=true)  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehasun15019&layout=compact" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ehasun15019&show_icons=true" />
+    </td>
+  </tr>
+</table>
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ehasun15019/contributions?format=svg&private=false)  
 
