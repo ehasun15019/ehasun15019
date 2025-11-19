@@ -74,7 +74,7 @@ I love solving problems, learning new technologies, and contributing to open-sou
 ---
 
 ## 💼 Projects
-<p align="center">
+<p align="left">
   <b>EcoTracker – Sustainable Website</b><br>
   <i>React | Node.js | MongoDB | Tailwind CSS</i><br>
   A responsive, eco-friendly web application built to track environmental impact and promote sustainable living.<br>
@@ -83,7 +83,4 @@ I love solving problems, learning new technologies, and contributing to open-sou
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ehasun15019&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+
