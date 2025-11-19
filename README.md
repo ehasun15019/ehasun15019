@@ -1,18 +1,15 @@
-![MERN Stack Developer ](https://ehasun.com/assets/mit-B62lcjGO.jpg)
-
 ### Hi there 👋, I am Ehasun Ul Islam
 #### MERN Stack Developer 
+![MERN Stack Developer ](https://i.ibb.co.com/twjz8dB8/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.png)
 
 As a Junior MERN Stack Developer, my commitment is delivering flawless websites. Driven by a passion for continuous learning, I'm always eager to take on new challenges and architect clean, scalable solutions for the modern web.
-
-Skills:  HTML / CSS / React Js / Node Js / Express Js / MongoDB / Firebase
 
 - 🔭 I’m currently working on A full Stack Project  
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on github 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ehasun15019)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ehasun-ul-islam-orko-857831315/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ehasun.ul.islam.orko)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ehasun.com/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ehasun15019)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ehasun15019)](https://github.com/ryo-ma/github-profile-trophy)
 
