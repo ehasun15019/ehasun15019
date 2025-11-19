@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ehasunulislam0202/portfolio/main/banner.png" alt="Ehasun Ul Islam Banner" width="100%" />
-</p>
-
 # Hi there 👋, I am **Ehasun Ul Islam**  
 ### MERN Stack Developer | Full Stack Enthusiast
 
@@ -19,17 +15,17 @@ I am a **Junior MERN Stack Developer** passionate about building modern, scalabl
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" width="150" height="150" alt="Frontend Icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" width="250" height="250" alt="Frontend Icons"/>
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" width="60" height="60" alt="Backend Icons"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" width="250" height="2500" alt="Backend Icons"/>
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel,firebase,figma" width="60" height="60" alt="Tools Icons"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel,firebase,figma" width="250" height="250" alt="Tools Icons"/>
 </p>
 
 ---
