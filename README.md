@@ -20,7 +20,7 @@ I am a **Junior MERN Stack Developer** passionate about building modern, scalabl
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" width="250" height="250" alt="Backend Icons"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" width="200" height="200" alt="Backend Icons"/>
 </p>
 
 ### Tools & Platforms
