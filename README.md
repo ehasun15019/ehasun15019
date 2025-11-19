@@ -15,18 +15,18 @@ I love solving problems, learning new technologies, and contributing to open-sou
 ## 👨‍💻 Skills
 
 ### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" width="70" height="70" alt="Frontend Icons"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" width="250" height="250" alt="Frontend Icons"/>
 </p>
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" width="70" height="70" alt="Backend Icons"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" width="150" height="150" alt="Backend Icons"/>
 </p>
 
 ### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel,firebase,figma" width="70" height="70" alt="Tools Icons"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel,firebase,figma" width="250" height="250" alt="Tools Icons"/>
 </p>
 
 ---
