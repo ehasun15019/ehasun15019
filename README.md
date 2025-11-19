@@ -27,9 +27,10 @@ As a Junior MERN Stack Developer, my commitment is delivering flawless websites.
     <img align="center" src="https://skillicons.dev/icons?i=facebook" width="40px" />
   </a>
   &nbsp;&nbsp;
-  <a href="ehasunulislam0202@gmail.com">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" width="40px" />
-  </a>
+<a href="mailto:ehasunulislam0202@gmail.com">
+  <img align="center" src="https://skillicons.dev/icons?i=gmail" width="40px" />
+</a>
+
 </p>
 
 ---
