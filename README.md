@@ -72,7 +72,7 @@ I am a **Junior MERN Stack Developer** passionate about building modern, scalabl
 
 ## 💼 Projects
 - **EcoTracker – Sustainable Website** – A responsive, eco-friendly web application built to track environmental impact and promote sustainable living (Full Stack).  
-  [Live Demo](https://ecotracker.ehasun.com/) | [Code](#)
+  [Live Demo](https://ecotracker.ehasun.com/) | 
 
 ---
 
