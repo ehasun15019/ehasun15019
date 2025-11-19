@@ -1,4 +1,4 @@
-![MERN Stack Developer ](https://i.ibb.co.com/twjz8dB8/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.png)
+<img src="https://i.ibb.co.com/twjz8dB8/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.png" alt="MERN Stack Developer Banner" width="100%">
 
 ### Hi there 👋, I am Ehasun Ul Islam
 #### MERN Stack Developer 
