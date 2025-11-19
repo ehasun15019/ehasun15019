@@ -19,7 +19,7 @@ I am a **Junior MERN Stack Developer** passionate about building modern, scalabl
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" width="60" height="60" alt="Frontend Icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" width="150" height="150" alt="Frontend Icons"/>
 </p>
 
 ### Backend
