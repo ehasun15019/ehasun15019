@@ -10,6 +10,8 @@ As a Junior MERN Stack Developer, my commitment is delivering flawless websites.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ehasun15019)  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ehasun15019&label=Profile%20views&color=0e75b6&style=flat" alt="ehasun15019" /> </p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ehasun15019)](https://github.com/ryo-ma/github-profile-trophy)
 
 <table>
