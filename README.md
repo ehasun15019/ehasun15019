@@ -1,79 +1,49 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/e95d8e29-d9f7-465f-a58c-cb5932550a8e.png" alt="Ehasun Ul Islam Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ehasunulislam0202/portfolio/main/banner.png" alt="Ehasun Ul Islam Banner" width="100%" />
 </p>
 
+# Hi there 👋, I am **Ehasun Ul Islam**  
+### MERN Stack Developer | Full Stack Enthusiast
 
-### Hi there 👋, I am Ehasun Ul Islam  
-#### MERN Stack Developer  
-
-As a Junior MERN Stack Developer, my commitment is delivering flawless websites. Driven by a passion for continuous learning, I'm always eager to take on new challenges and architect clean, scalable solutions for the modern web.
-
-- 🔭 I’m currently working on a Full Stack Project  
-- 🌱 I’m currently learning JavaScript  
-- 👯 I’m looking to collaborate on GitHub  
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ehasun15019&label=Profile%20views&color=0e75b6&style=flat" alt="ehasun15019" />
-</p>
+I am a **Junior MERN Stack Developer** passionate about building modern, scalable web applications. I love solving problems, learning new technologies, and contributing to open-source projects.
 
 ---
 
-## 🔗 Connect with me
-<p align="left">
-  <a href="https://github.com/ehasun15019" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=github" width="40px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ehasun-ul-islam-orko-857831315" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" width="40px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://fb.com/ehasun.ul.islam.orko" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=facebook" width="40px" />
-  </a>
-  &nbsp;&nbsp;
-<a href="mailto:ehasunulislam0202@gmail.com">
-  <img align="center" src="https://skillicons.dev/icons?i=gmail" width="40px" />
-</a>
-
-</p>
+## 🔭 Currently Working On
+- A **Full Stack MERN Project** to enhance CRUD operations & responsive UI  
+- Learning **Advanced JavaScript** and **Next.js**
 
 ---
 
-## 🛠️ Languages & Tools
+## 👨‍💻 Skills
 
-### **Frontend Development**
+### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" width="30px" />
 </p>
 
-### **Backend Development**
+### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" width="30px" />
 </p>
 
 ### **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel,firebase,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel,firebase,figma" width="30px" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=ehasun15019&theme=flat&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehasun15019&layout=compact&theme=default" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ehasun15019&show_icons=true&theme=default" />
-    </td>
-  </tr>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehasun15019&layout=compact&theme=radical" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=ehasun15019&show_icons=true&theme=radical" />
+</td>
+</tr>
 </table>
 
 ---
@@ -85,7 +55,30 @@ As a Junior MERN Stack Developer, my commitment is delivering flawless websites.
 
 ---
 
-## 🛡️ Contribution Badge
+## 🔗 Connect with me
 <p align="center">
-  <img src="https://api.vaunt.dev/v1/github/entities/ehasun15019/contributions?format=svg&private=false" alt="Vaunt Badge" />
+  <a href="https://github.com/ehasun15019" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40px" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/ehasun-ul-islam-orko-857831315" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40px" />
+  </a>&nbsp;
+  <a href="https://fb.com/ehasun.ul.islam.orko" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" width="40px" />
+  </a>&nbsp;
+  <a href="mailto:ehasunulislam0202@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40px" />
+  </a>
 </p>
+
+---
+
+## 💼 Projects
+- **Portfolio Website** – Responsive React + Tailwind project [Live](#) | [Code](#)  
+- **E-commerce App** – MERN stack full CRUD app [Live](#) | [Code](#)  
+
+---
+
+## 🏆 Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=ehasun15019&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
