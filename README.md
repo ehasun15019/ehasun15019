@@ -71,8 +71,8 @@ I am a **Junior MERN Stack Developer** passionate about building modern, scalabl
 ---
 
 ## 💼 Projects
-- **Portfolio Website** – Responsive React + Tailwind project [Live](#) | [Code](#)  
-- **E-commerce App** – MERN stack full CRUD app [Live](#) | [Code](#)  
+- **EcoTracker – Sustainable Website** – A responsive, eco-friendly web application built to track environmental impact and promote sustainable living (Full Stack).  
+  [Live Demo](https://ecotracker.ehasun.com/) | [Code](#)
 
 ---
 
