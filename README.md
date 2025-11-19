@@ -17,19 +17,19 @@ I am a **Junior MERN Stack Developer** passionate about building modern, scalabl
 
 ## 👨‍💻 Skills
 
-### **Frontend**
+### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" width="30px" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" width="60" height="60" alt="Frontend Icons"/>
 </p>
 
-### **Backend**
+### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" width="30px" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" width="60" height="60" alt="Backend Icons"/>
 </p>
 
-### **Tools & Platforms**
+### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel,firebase,figma" width="30px" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel,firebase,figma" width="60" height="60" alt="Tools Icons"/>
 </p>
 
 ---
