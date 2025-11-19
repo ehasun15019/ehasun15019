@@ -78,9 +78,9 @@ I love solving problems, learning new technologies, and contributing to open-sou
   <b>EcoTracker – Sustainable Website</b><br>
   <i>React | Node.js | MongoDB | Tailwind CSS</i><br>
   A responsive, eco-friendly web application built to track environmental impact and promote sustainable living.<br>
-  [🌐 Live Demo](https://ecotracker.ehasun.com/) | [💻 Code](#)
+  [🌐 Live Demo](https://ecotracker.ehasun.com/) |
 </p>
 
 ---
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ehasun15019)](https://github.com/ryo-ma/github-profile-trophy)
