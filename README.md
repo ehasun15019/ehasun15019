@@ -23,7 +23,8 @@ As a Junior MERN Stack Developer, my commitment is delivering flawless websites.
   </tr>
 </table>
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ehasun15019)  
+
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ehasun15019/contributions?format=svg&private=false)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ehasun15019)  
 
