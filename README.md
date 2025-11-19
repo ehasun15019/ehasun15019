@@ -20,12 +20,12 @@ I love solving problems, learning new technologies, and contributing to open-sou
 </p>
 
 ### Backend
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" width="150" height="150" alt="Backend Icons"/>
 </p>
 
 ### Tools & Platforms
-<p align="center">
+<p align="cenleftter">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel,firebase,figma" width="250" height="250" alt="Tools Icons"/>
 </p>
 
