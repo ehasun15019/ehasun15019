@@ -59,9 +59,10 @@ I am a **Junior MERN Stack Developer** passionate about building modern, scalabl
   <a href="https://linkedin.com/in/ehasun-ul-islam-orko-857831315" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40px" />
   </a>&nbsp;
-  <a href="https://fb.com/ehasun.ul.islam.orko" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="40px" />
-  </a>&nbsp;
+ <a href="https://fb.com/ehasun.ul.islam.orko" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" alt="Facebook" />
+</a>
+
   <a href="mailto:ehasunulislam0202@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40px" />
   </a>
